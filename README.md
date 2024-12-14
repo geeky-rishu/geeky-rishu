@@ -17,8 +17,10 @@ Welcome to my GitHub profile! I'm passionate about technology, open-source, and 
 ## 🌐 A Bit More About Me
 I’m committed to the open-source community and enjoy contributing to projects that make technology more accessible. Through my blog and LinkedIn, I share insights on Linux, DevOps, programming, and more. My teaching approach focuses on simplifying the complex, making learning engaging and intuitive.
 
+<!--
 ## 📊 GitHub Stats
 ![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geeky-rishu&show_icons=true&theme=radical)
+-->
 
 Thank you for visiting my profile! Let’s connect and collaborate to create something amazing.
 
